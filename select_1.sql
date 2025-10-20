@@ -1,5 +1,5 @@
 # Exercise: Revising the Select Query I
-# URL: https://github.com/Rafikirs/HackerRank_Python_Easy/blob/main/alphabet_rangoli.py
+# URL: https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
 # Description: A very simple query
 
 SELECT *
